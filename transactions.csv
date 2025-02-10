@@ -1,0 +1,24 @@
+Transaction Code;Description
+SU01;User Maintenance
+SE16;Data Browser
+SE11;ABAP Dictionary
+SE38;ABAP Editor
+SE80;Object Navigator
+MM01;Create Material
+MM02;Change Material
+MM03;Display Material
+VA01;Create Sales Order
+VA02;Change Sales Order
+VA03;Display Sales Order
+ME21N;Create Purchase Order
+ME22N;Change Purchase Order
+ME23N;Display Purchase Order
+FBL1N;Vendor Line Items
+FBL3N;G/L Account Line Items
+FBL5N;Customer Line Items
+FB50;General Ledger Posting
+FB60;Enter Vendor Invoice
+FB70;Enter Customer Invoice
+MIGO;Goods Movement
+MIRO;Enter Incoming Invoice
+SPRO;SAP Project Reference Object (Configuration)
