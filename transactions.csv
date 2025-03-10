@@ -1,5 +1,10 @@
 transaction,description,functional,keyUser
-User Maintenance,Gabriel,Aosaki,
-Data Browser,Gabriel,Aosaki,
-ABAP Dictionary,Lucas,Murillo,
+SU01,User Maintenance,Gabriel,Aosaki
+SE16,Data Browser,Gabriel,Aosaki
+SE11,ABAP Dictionary,Lucas,Murillo
+SE38,ABAP Editor,Lucas,Murillo
+SE80,Object Navigator,Lucas,Murillo
+MM01,Create Material,Gabriel,Aosaki
+MM02,Change Material,Gabriel,Aosaki
+MM03,Display Material,Gabriel,Aosaki
 TESTE,teste,teste,teste
