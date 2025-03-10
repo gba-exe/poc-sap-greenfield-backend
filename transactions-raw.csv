@@ -1,0 +1,24 @@
+transaction,description,functional,keyUser
+SU01,User Maintenance,Gabriel,Aosaki
+SE16,Data Browser,Gabriel,Aosaki
+SE11,ABAP Dictionary,Lucas,Murillo
+SE38,ABAP Editor,Lucas,Murillo
+SE80,Object Navigator,Lucas,Murillo
+MM01,Create Material,Gabriel,Aosaki
+MM02,Change Material,Gabriel,Aosaki
+MM03,Display Material,Gabriel,Aosaki
+VA01,Create Sales Order,Gabriel,Aosaki
+VA02,Change Sales Order,Lucas,Murillo
+VA03,Display Sales Order,Lucas,Murillo
+ME21N,Create Purchase Order,Gabriel,Aosaki
+ME22N,Change Purchase Order,Gabriel,Aosaki
+ME23N,Display Purchase Order,Gabriel,Aosaki
+FBL1N,Vendor Line Items,Lucas,Murillo
+FBL3N,G/L Account Line Items,Lucas,Murillo
+FBL5N,Customer Line Items,Lucas,Murillo
+FB50,General Ledger Posting,Gabriel,Aosaki
+FB60,Enter Vendor Invoice,Gabriel,Aosaki
+FB70,Enter Customer Invoice,Gabriel,Aosaki
+MIGO,Goods Movement,Lucas,Murillo
+MIRO,Enter Incoming Invoice,Lucas,Murillo
+SPRO,SAP Project Reference Object (Configuration),Gabriel,Aosaki
