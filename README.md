@@ -49,8 +49,8 @@ Antes de rodar o projeto, certifique-se de ter instalado:
 1. Clone o repositório
 
 ```bash
-git clone <URL_DO_REPO>
-cd <PASTA_DO_PROJETO>
+git clone https://github.com/gba-exe/poc-sap-greenfield-backend
+cd poc-sap-greenfield-backend
 ```
 
 2. Crie e ative o ambiente virtual
